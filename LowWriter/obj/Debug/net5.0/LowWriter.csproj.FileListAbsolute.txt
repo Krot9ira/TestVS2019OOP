@@ -1,0 +1,16 @@
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\LowWriter.exe
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\LowWriter.deps.json
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\LowWriter.runtimeconfig.json
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\LowWriter.runtimeconfig.dev.json
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\LowWriter.dll
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\ref\LowWriter.dll
+C:\Users\kahas\source\repos\LowWriter\LowWriter\bin\Debug\net5.0\LowWriter.pdb
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.csproj.AssemblyReference.cache
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.AssemblyInfoInputs.cache
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.AssemblyInfo.cs
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.csproj.CoreCompileInputs.cache
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.dll
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\ref\LowWriter.dll
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.pdb
+C:\Users\kahas\source\repos\LowWriter\LowWriter\obj\Debug\net5.0\LowWriter.genruntimeconfig.cache
